@@ -1,16 +1,30 @@
-## Hi there 👋
+Civilian-Deployed Autonomous Aid Balloons (CDAAB) for Gaza
+Toolkit V1, July 2025
+This repository contains verified humanitarian guidance and legal documentation for civilian teams deploying autonomous aid balloons to deliver food and medical aid into Gaza, in accordance with international humanitarian law.
+All materials are released under a Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0). They may be copied, adapted, translated, and distributed freely for peaceful, nonviolent humanitarian use.
 
-<!--
-**CDAAB/CDAAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📘 Key Documents
+- CDAAB Field Manual (PDF)
+Complete guide for planning, building, launching, and documenting aid balloon deployments. - English, Arabic, Turkish, Greek, and Hebrew
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Legal Documents:
+
+
+- Legal Justification (PDF) - English, Arabic, Turkish, Greek, Hebrew, Farsi, Kurdish, French, and Russian.
+
+
+- Declaration of Intent (PDF) - English, Arabic, Turkish, Greek, Hebrew, Farsi, and Kurdish.
+
+
+- Public Statement for Onlookers and Officials (PDF) - English, Arabic, Turkish, Greek, Hebrew, Farsi, and Kurdish.
+
+
+Payload Labels:
+
+
+- Multilingual Label Sheet (PDF) - English, Arabic, Turkish, Greek, Hebrew, Farsi, Kurdish, French, and Russian.
+
+
+For coordination or legal support, contact: [Signal]
