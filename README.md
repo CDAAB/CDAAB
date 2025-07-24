@@ -4,7 +4,7 @@ This repository contains verified humanitarian guidance and legal documentation 
 All materials are released under a Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0). They may be copied, adapted, translated, and distributed freely for peaceful, nonviolent humanitarian use.
 
 
-📘 Key Documents
+Key Documents
 - CDAAB Field Manual (PDF)
 Complete guide for planning, building, launching, and documenting aid balloon deployments. - English, Arabic, Turkish, Greek, and Hebrew
 
