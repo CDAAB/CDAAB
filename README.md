@@ -1,8 +1,8 @@
 Civilian-Deployed Autonomous Aid Balloons (CDAAB) for Gaza
 
-Toolkit V1, July 2025
+Toolkit V0.1, July 24, 2025
 
-This repository contains  humanitarian guidance and legal documentation for civilian teams deploying autonomous aid balloons to deliver food and medical aid into Gaza, in accordance with international humanitarian law.
+This repository contains  humanitarian guidance and legal documentation for civilian teams deploying autonomous aid balloons to deliver food and medical aid into Gaza, in accordance with international humanitarian law. Resources are being actively developed; check back frequently for updates.
 
 
 
@@ -29,7 +29,7 @@ Aid Package Labels:
 
 
 
-For coordination or support, contact CDAAB@protonmail.com
+Please direct all feedback and requests to: CDAAB@protonmail.com
 
 
 
