@@ -2,7 +2,7 @@ Civilian-Deployed Autonomous Aid Balloons (CDAAB) for Gaza
 
 Toolkit v0.1, July 24, 2025
 
-This repository contains  humanitarian guidance and legal documentation for civilian teams deploying autonomous aid balloons to deliver food and medical aid into Gaza, an action protected by international humanitarian law. Launch zones include areas wihin 400km of Gaza, with likelihoods for success increasing with proximity. This toolkit is being actively developed. Check back frequently for updates.
+This repository contains  humanitarian guidance and legal documentation for civilian teams deploying autonomous aid balloons to deliver food and medical aid into Gaza, an action protected by international humanitarian law. Launch zones include areas wihin 400km of Gaza, with success more likely at closer proximities. This toolkit is being actively developed. Check back frequently for updates.
 
 
 
