@@ -15,17 +15,17 @@ Support Documents:
 - [Legal Justification (PDF) ](https://github.com/CDAAB/CDAAB/tree/main/Legal)  - English version 1 available now
 
 
-- [Declaration of Intent (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Declaration_of_Intent) - printable version coming soon
+- [Declaration of Intent (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Declaration_of_Intent) - printable version coming soon, see content in Field Manual
 
 
 
-- [Public Statement for Onlookers and Officials (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Public_Statement_for_Onlookers_and_Officials) - printable version coming soon
+- [Public Statement for Onlookers and Officials (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Public_Statement_for_Onlookers_and_Officials) - printable version coming soon, see content in Field Manual
 
 
 Aid Package Labels:
 
 
-- [Multilingual Label Sheet (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Aid_Package_Labels) - printable version coming soon
+- [Multilingual Label Sheet (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Aid_Package_Labels) - printable version coming soon, see content in Field Manual
 
 
 
