@@ -1,13 +1,13 @@
 Civilian-Deployed Autonomous Aid Balloons (CDAAB) for Gaza
 
-Toolkit v0.1, July 24, 2025
+Toolkit v1, July 24, 2025
 
 This repository contains  humanitarian guidance and legal documentation for civilian teams deploying autonomous aid balloons to deliver food and medical aid into Gaza, an action protected by international humanitarian law. Launch zones include areas wihin 400km of Gaza, with success more likely at closer proximities. This toolkit is being actively developed. Check back frequently for updates.
 
 
 
 Key Document:
-- [CDAAB Field Manual (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Field_Manual)  - English draft available now
+- [CDAAB Field Manual (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Field_Manual)  - English version 1 available now
 
 
 Support Documents:
@@ -15,21 +15,21 @@ Support Documents:
 - [Legal Justification (PDF) ](https://github.com/CDAAB/CDAAB/tree/main/Legal)  - English version 1 available now
 
 
-- [Declaration of Intent (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Declaration_of_Intent) - printable version coming soon, see content in Field Manual
+- [Declaration of Intent (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Declaration_of_Intent) - English version 1 available now
 
 
 
-- [Public Statement for Onlookers and Officials (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Public_Statement_for_Onlookers_and_Officials) - printable version coming soon, see content in Field Manual
+- [Public Statement for Onlookers and Officials (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Public_Statement_for_Onlookers_and_Officials) - English version 1 available now
 
 
 Aid Package Labels:
 
 
-- [Multilingual Label Sheet (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Aid_Package_Labels) - printable version coming soon, see content in Field Manual
+- [Multilingual Label Sheet (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Aid_Package_Labels) - version 1 available now
 
 
 
-If you are a technical expert in these areas, your recommendations to improve this toolkit are encouraged. 
+If you are a technical expert in these areas, we encourage your recommendations to improve this toolkit. 
 Please direct all feedback and requests to: CDAAB@protonmail.com
 
 
