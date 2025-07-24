@@ -8,25 +8,25 @@ This repository contains  humanitarian guidance and legal documentation for civi
 
 Key Documents
 - CDAAB Field Manual (PDF)
-Complete guide for planning, building, launching, and documenting aid balloon deployments. - English, Arabic, Turkish, Greek, and Hebrew
+Complete guide for planning, building, launching, and documenting aid balloon deployments.
 
 
 Support Documents:
 
 
-- Legal Justification (PDF) - English, Arabic, Turkish, Greek, Hebrew, Farsi, Kurdish, French, and Russian.
+- Legal Justification (PDF) 
 
 
-- Declaration of Intent (PDF) - English, Arabic, Turkish, Greek, Hebrew, Farsi, and Kurdish.
+- Declaration of Intent (PDF) 
 
 
-- Public Statement for Onlookers and Officials (PDF) - English, Arabic, Turkish, Greek, Hebrew, Farsi, and Kurdish.
+- Public Statement for Onlookers and Officials (PDF) 
 
 
 Aid Package Labels:
 
 
-- Multilingual Label Sheet (PDF) - English, Arabic, Turkish, Greek, Hebrew, Farsi, Kurdish, French, and Russian.
+- Multilingual Label Sheet (PDF) 
 
 
 For coordination or legal support, contact CDAAB@protonmail.com
