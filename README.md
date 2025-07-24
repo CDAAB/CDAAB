@@ -23,7 +23,7 @@ Support Documents:
 - Public Statement for Onlookers and Officials (PDF) - English, Arabic, Turkish, Greek, Hebrew, Farsi, and Kurdish.
 
 
-Payload Labels:
+Aid Package Labels:
 
 
 - Multilingual Label Sheet (PDF) - English, Arabic, Turkish, Greek, Hebrew, Farsi, Kurdish, French, and Russian.
