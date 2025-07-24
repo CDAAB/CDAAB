@@ -6,29 +6,30 @@ This repository contains  humanitarian guidance and legal documentation for civi
 
 
 
-Key Documents
-- [CDAAB Field Manual (PDF)](file:///C:/Users/saman/OneDrive/Desktop/Field_Manual_forCDAAB-ENGv0.pdf)
+Key Document:
+- [CDAAB Field Manual (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Field_Manual)
 
 
 Support Documents:
 
-
-- Legal Justification (PDF) 
-
-
-- Declaration of Intent (PDF) 
+- [Legal Justification (PDF) ](https://github.com/CDAAB/CDAAB/tree/main/Legal)
 
 
-- Public Statement for Onlookers and Officials (PDF) 
+- [Declaration of Intent (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Declaration_of_Intent)
+
+
+
+- [Public Statement for Onlookers and Officials (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Public_Statement_for_Onlookers_and_Officials)
 
 
 Aid Package Labels:
 
 
-- Multilingual Label Sheet (PDF) 
+- [Multilingual Label Sheet (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Aid_Package_Labels)
 
 
-For coordination or legal support, contact CDAAB@protonmail.com
+
+For coordination or support, contact CDAAB@protonmail.com
 
 
 
