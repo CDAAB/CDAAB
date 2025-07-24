@@ -11,7 +11,7 @@ Key Documents
 Complete guide for planning, building, launching, and documenting aid balloon deployments. - English, Arabic, Turkish, Greek, and Hebrew
 
 
-Legal Documents:
+Support Documents:
 
 
 - Legal Justification (PDF) - English, Arabic, Turkish, Greek, Hebrew, Farsi, Kurdish, French, and Russian.
