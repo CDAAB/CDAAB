@@ -7,25 +7,25 @@ This repository contains  humanitarian guidance and legal documentation for civi
 
 
 Key Document:
-- [CDAAB Field Manual (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Field_Manual)
+- [CDAAB Field Manual (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Field_Manual)  - English draft available now
 
 
 Support Documents:
 
-- [Legal Justification (PDF) ](https://github.com/CDAAB/CDAAB/tree/main/Legal)
+- [Legal Justification (PDF) ](https://github.com/CDAAB/CDAAB/tree/main/Legal)  - English version 1 available now
 
 
-- [Declaration of Intent (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Declaration_of_Intent)
+- [Declaration of Intent (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Declaration_of_Intent) - printable version coming soon
 
 
 
-- [Public Statement for Onlookers and Officials (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Public_Statement_for_Onlookers_and_Officials)
+- [Public Statement for Onlookers and Officials (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Public_Statement_for_Onlookers_and_Officials) - printable version coming soon
 
 
 Aid Package Labels:
 
 
-- [Multilingual Label Sheet (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Aid_Package_Labels)
+- [Multilingual Label Sheet (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Aid_Package_Labels) - printable version coming soon
 
 
 
