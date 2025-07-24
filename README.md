@@ -7,8 +7,7 @@ This repository contains  humanitarian guidance and legal documentation for civi
 
 
 Key Documents
-- CDAAB Field Manual (PDF)
-: Complete guide for planning, building, launching, and documenting aid balloon deployments.
+- [CDAAB Field Manual (PDF)](file:///C:/Users/saman/OneDrive/Desktop/Field_Manual_forCDAAB-ENGv0.pdf)
 
 
 Support Documents:
