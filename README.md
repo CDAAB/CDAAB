@@ -56,14 +56,14 @@ _______
  الوثائق الرئيسية:
 
 - [دليل البدء السريع (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Quick_Start) – الإصداران باللغتين الإنجليزية والعربية (الإصدار 1) متوفران الآن  
-- [الدليل الميداني لـ CDAAB (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Field_Manual) – الإصدار 1 باللغة الإنجليزية متاح الآن  
+- [الدليل الميداني لـ CDAAB (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Field_Manual) – الإصدار 1 باللغتين الإنجليزية والعربية متاح الآن
 
 
  وثائق الدعم:
 
-- [التبرير القانوني (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Legal) – الإصدار 1 باللغة الإنجليزية  
-- [إعلان النوايا (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Declaration_of_Intent) – الإصدار 1 باللغة الإنجليزية  
-- [بيان عام للمتفرجين والمسؤولين (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Public_Statement_for_Onlookers_and_Officials) – الإصدار 1 باللغة الإنجليزية  
+- [التبرير القانوني (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Legal) – الإصدار 1 باللغتين الإنجليزية والعربية متاح الآن 
+- [إعلان النوايا (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Declaration_of_Intent) – الإصدار 1 باللغتين الإنجليزية والعربية متاح الآن 
+- [بيان عام للمتفرجين والمسؤولين (PDF)](https://github.com/CDAAB/CDAAB/tree/main/Field_Resources/Public_Statement_for_Onlookers_and_Officials) – الإصدار 1 باللغتين الإنجليزية والعربية متاح الآن 
 
 
  ملصقات حزمة المساعدة:
