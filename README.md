@@ -2,7 +2,7 @@
 Toolkit v1.1, July 25, 2025
 
 
-Scroll down to read this summary in Arabic مرّر لأسفل لقراءة هذا الملخص باللغة العربية
+Scroll down to read this summary in Arabic (مرّر لأسفل لقراءة هذا الملخص باللغة العربية)
 
 
 This repository contains  humanitarian guidance and legal documentation for civilian teams deploying autonomous aid balloons to deliver food and medical aid into Gaza, an action protected by international humanitarian law. Launch zones include areas within 400km of Gaza, with success more likely at closer proximities. This toolkit is being actively developed. Check back frequently for updates.
