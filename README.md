@@ -3,7 +3,7 @@ Toolkit v1.1, July 25, 2025
 
 
 Read this summary in:
-- [Arabic العربية](https://github.com/CDAAB/CDAAB/edit/main/README.md#%D8%A8%D8%A7%D9%84%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D9%8A%D9%86%D8%B4%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D9%84%D8%BA%D8%B2%D8%A9 ) 
+- [Arabic اقرأ هذا الملخص باللغة العربية](https://github.com/CDAAB/CDAAB/edit/main/README.md#%D8%A8%D8%A7%D9%84%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D9%8A%D9%86%D8%B4%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D9%84%D8%BA%D8%B2%D8%A9 ) 
 
 
 This repository contains  humanitarian guidance and legal documentation for civilian teams deploying autonomous aid balloons to deliver food and medical aid into Gaza, an action protected by international humanitarian law. Launch zones include areas within 400km of Gaza, with success more likely at closer proximities. This toolkit is being actively developed. Check back frequently for updates.
